@@ -58,7 +58,7 @@ StyleGan2
 
 **Location:**  several branches have been made to support running on supercloud, satori, and local clusters. Weights coming soon. 
 
-**Link(s):** stylgan2_, imagery_utils_
+**Link(s):** stylgan2_ , imagery_utils_
  
 
 Satellite segmentation model 
@@ -92,12 +92,11 @@ MIT Satori
 **Link:** satori_
 
 -  Still need help ? Email petermor@mit.edu
-.. _sevir: https://github.com/MIT-AI-Accelerator/eie-sevir
 .. _satori: https://github.com/mit-satori/
 .. _supercloud: https://supercloud.mit.edu
 .. _landcover_model: https://github.com/calebrob6/land-cover
 .. _stylegan2: https://github.com/MIT-AI-Accelerator/stylegan2
 .. _imagery_utils: https://github.com/MIT-AI-Accelerator/eie-utils
 .. _landcover_data: http://lila.science/datasets/chesapeakelandcover
-.. _worldview_data: https://worldview.earthdata.nasa.gov/
+.. _worldview: https://worldview.earthdata.nasa.gov/
 .. _sevir: https://github.com/MIT-AI-Accelerator/eie-sevir
