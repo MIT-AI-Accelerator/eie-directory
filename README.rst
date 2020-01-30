@@ -67,7 +67,7 @@ Satellite segmentation model
 
 **Outputs:** 5-class segmentation map.  
 
-**Description:** U-Net deep architecture. 
+**Description:** U-Net architecture. 
 
 **Link:** (https://github.com/calebrob6/land-cover)
 
