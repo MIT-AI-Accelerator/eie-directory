@@ -1,9 +1,9 @@
 .. figure:: images/fakes000403.png
    :alt: DeepFakes
 
-   Satori
+StyleGan2 Images
 
-SATORI: Getting Started Documentation for Early Access (EA)
+EIE: Info Directory
 -----------------------------------------------------------
 
 This section provides a “lightning-quick” guide for early access of
