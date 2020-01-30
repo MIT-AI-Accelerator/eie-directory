@@ -21,7 +21,7 @@ Over 10k spatially and temporally aligned image sequences from 5 weather sensors
 
 **Link:**  Not yet available.   We plan to upload to AWS in summer 2020. 
 
-**Other info:** Dataset tools located in (https://github.com/MIT-AI-Accelerator/eie-sevir).
+**Other info:** Dataset tools located in sevir_.
 
  
 
@@ -33,7 +33,7 @@ Images of Earth ranging from 250m resolution to 3m resolution and with frequency
 
 **Location:** AWS, NASA, Planet, and other locations 
 
-**Link:** (https://worldview.earthdata.nasa.gov/)
+**Link:** worldview_
 
  
 
@@ -43,7 +43,7 @@ High-res aerial imagery from the USDA NAIP program, high-res land cover labels, 
 
 **Size:** Nearly 1 TB. 
 
-**Link:** (http://lila.science/datasets/chesapeakelandcover)
+**Link:** landcover_data_
 
 Models
 ---------
@@ -58,7 +58,7 @@ StyleGan2
 
 **Location:**  several branches have been made to support running on supercloud, satori, and local clusters. Weights coming soon. 
 
-**Link(s):** (https://github.com/MIT-AI-Accelerator/stylegan2), (https://github.com/MIT-AI-Accelerator/eie-utils)
+**Link(s):** stylgan2_, imagery_utils_
  
 
 Satellite segmentation model 
@@ -69,7 +69,7 @@ Satellite segmentation model
 
 **Description:** U-Net architecture. 
 
-**Link:** (https://github.com/calebrob6/land-cover)
+**Link:** landcover_model_
 
  
 Infrastructure
@@ -80,7 +80,7 @@ MIT Supercloud
 
 **Description:** The SuperCloud allows for large batch processing that can be done in parallel, and access to dual v100 gpu nodes 
 
-**Link:** (supercloud.mit.edu)
+**Link:** supercloud_
 
 
 MIT Satori  
@@ -89,6 +89,15 @@ MIT Satori
 
 **Description:** The satori cluster allows for large scale gpu batch processing. 
 
-**Link:** (https://github.com/mit-satori/) 
+**Link:** satori_
 
 -  Still need help ? Email petermor@mit.edu
+.. _sevir: https://github.com/MIT-AI-Accelerator/eie-sevir
+.. _satori: https://github.com/mit-satori/
+.. _supercloud: https://supercloud.mit.edu
+.. _landcover_model: https://github.com/calebrob6/land-cover
+.. _stylegan2: https://github.com/MIT-AI-Accelerator/stylegan2
+.. _imagery_utils: https://github.com/MIT-AI-Accelerator/eie-utils
+.. _landcover_data: http://lila.science/datasets/chesapeakelandcover
+.. _worldview_data: https://worldview.earthdata.nasa.gov/
+.. _sevir: https://github.com/MIT-AI-Accelerator/eie-sevir
