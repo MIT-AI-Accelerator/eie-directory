@@ -78,14 +78,18 @@ Infrastructure
 MIT Supercloud 
 ~~~~~~~~~~~~~~
 **Purpose:** Large scale computing,  large disk storage,  GPU access. 
+
 **Description:** The SuperCloud allows for large batch processing that can be done in parallel, and access to dual v100 gpu nodes 
+
 **Link:** supercloud.mit.edu 
 
 
 MIT Satori  
 ~~~~~~~~~~~~~~
 **Purpose:** Large scale gpu computing, large ram and nvlink/infiniband support 
+
 **Description:** The satori cluster allows for large scale gpu batch processing. 
+
 **Link:** https://github.com/mit-satori/  
 
 -  Still need help ? Email petermor@mit.edu
