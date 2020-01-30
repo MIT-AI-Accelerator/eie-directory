@@ -51,9 +51,13 @@ Models
 StyleGan2 
 ~~~~~~~~~
 **Inputs:** Image Data 
+
 **Outputs:** Image Data 
+
 **Description:** GAN for generating synthetic images from input data distribution, can be used to mix "styles", e.g. winter to summer. 
+
 **Location:**  several branches have been made to support running on supercloud, satori, and local clusters. Weights coming soon. 
+
 **Link(s):** [EIE Forked Repository](https://github.com/MIT-AI-Accelerator/stylegan2)
 [general utils for satellite data](https://github.com/MIT-AI-Accelerator/eie-utils)
  
@@ -61,8 +65,11 @@ StyleGan2
 Satellite segmentation model 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 **Inputs:** 1-m resolution satellite imagery. 
+
 **Outputs:** 5-class segmentation map.  
+
 **Description:** U-Net deep architecture. 
+
 **Link:** https://github.com/calebrob6/land-cover 
 
  
@@ -75,7 +82,7 @@ MIT Supercloud
 **Link:** supercloud.mit.edu 
 
 
-Satori cluster 
+MIT Satori  
 ~~~~~~~~~~~~~~
 **Purpose:** Large scale gpu computing, large ram and nvlink/infiniband support 
 **Description:** The satori cluster allows for large scale gpu batch processing. 
