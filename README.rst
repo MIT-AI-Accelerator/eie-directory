@@ -62,7 +62,7 @@ StyleGan2
 **Link(s):** stylegan2_ , imagery_utils_
  
 
-Satellite segmentation model 
+Satellite Segmentation Model 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 **Inputs:** 1-m resolution satellite imagery. 
 
