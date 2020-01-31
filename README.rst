@@ -38,7 +38,9 @@ Images of Earth ranging from 250m resolution to 3m resolution and with frequency
 
 Chesapeake Conservancy LU/LC data 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-High-res aerial imagery from the USDA NAIP program, high-res land cover labels, low-res land cover labels from the USGS NLCD 2011 dataset, low-res multi-spectral imagery from Landsat 8, and high-res building footprint masks from Microsoft Bing, formatted to accelerate machine learning research into land cover mapping. 
+.. figure:: images/landcover.jpg
+   :alt: Land Coverage Truth
+This dataset contains high-resolution aerial imagery from the USDA NAIP program, high-resolution land cover labels from the Chesapeake Conservancy, low-resolution land cover labels from the USGS NLCD 2011 dataset, low-resolution multi-spectral imagery from Landsat 8, and high-resolution building footprint masks from Microsoft Bing, formatted to accelerate machine learning research into land cover mapping.
 
 **Size:** Nearly 1 TB. 
 
