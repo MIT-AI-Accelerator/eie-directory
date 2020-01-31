@@ -3,8 +3,6 @@ Earth Intelligence Engine: Info Directory
 
 .. contents::
 
-Data
----------
 
 Infrastructure
 --------------
@@ -26,6 +24,10 @@ MIT Satori
 **Link:** satori_
 
 **Point of Contact:** cnh@mit.edu 
+
+
+Data
+-----
 
 Storm EVent ImagRy (SEVIR) 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
