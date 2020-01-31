@@ -13,6 +13,8 @@ Data
 
 Storm EVent ImagRy (SEVIR) 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
+.. figure:: images/sevir_frames.png
+   :alt: Sevir Data Generator
 Over 10k spatially and temporally aligned image sequences from 5 weather sensors, including visible and infrared satellite, weather radar, and the geostationary lightning mapper.  Many samples in SEVIR correspond to NOAA’s Storm Event Database. For more info see (sevir.mit.edu).  
 
 **Size:** Approximately 1TB.  Total number of videos: 76k   Total number of image frames across all videos:   3.7 million 
