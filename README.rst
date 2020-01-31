@@ -24,6 +24,8 @@ Over 10k spatially and temporally aligned image sequences from 5 weather sensors
 
 Satellite images 
 ~~~~~~~~~~~~~~~~
+.. figure:: images/worldview.jpg
+   :alt: Tropical Cyclone Idai
 Images of Earth ranging from 250m resolution to 3m resolution and with frequency bands ranging from RGB-IR to 36 bands. 
 
 **Size:** many Terabytes.  
