@@ -57,7 +57,7 @@ StyleGan2
 
 **Location:**  several branches have been made to support running on supercloud, satori, and local clusters. Weights coming soon. 
 
-**Link(s):** stylgan2_ , imagery_utils_
+**Link(s):** stylegan2_ , imagery_utils_
  
 
 Satellite segmentation model 
