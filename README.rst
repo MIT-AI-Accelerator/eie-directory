@@ -25,7 +25,7 @@ MIT Satori
 
 **Link:** satori_
 
-**POC:** cnh@mit.edu 
+**Point of Contact:** cnh@mit.edu 
 
 Storm EVent ImagRy (SEVIR) 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -41,7 +41,7 @@ Over 10k spatially and temporally aligned image sequences from 5 weather sensors
 
 **Other info:** Dataset tools located in sevir_.
 
-**POC:** mark.veillette@ll.mit.edu
+**Point of Contact:** mark.veillette@ll.mit.edu
 
 Satellite images 
 ~~~~~~~~~~~~~~~~
@@ -55,7 +55,7 @@ Images of Earth ranging from 250m resolution to 3m resolution and with frequency
 
 **Link:** worldview_
 
-**POC:** branlesh@mit.edu
+**Point of Contact:** branlesh@mit.edu
 
 Chesapeake Conservancy LU/LC data 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -65,7 +65,7 @@ This dataset contains high-resolution aerial imagery from the USDA NAIP program,
 
 **Link:** landcover_data_
 
-**POC:** branlesh@mit.edu
+**Point of Contact:** branlesh@mit.edu
 
 
 Models
@@ -85,7 +85,7 @@ StyleGan2
 
 **Link(s):** stylegan2_ , imagery_utils_
  
-**POC:** petermor@mit.edu
+**Point of Contact:** petermor@mit.edu
 
 
 Satellite Segmentation Model 
@@ -98,7 +98,7 @@ Satellite Segmentation Model
 
 **Link:** landcover_model_
 
-**POC:** branlesh@mit.edu
+**Point of Contact:** branlesh@mit.edu
  
 
 
