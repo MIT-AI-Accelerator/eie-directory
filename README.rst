@@ -49,7 +49,7 @@ Models
 
 StyleGan2 
 ~~~~~~~~~
-.. figure:: images/fakes000403.png
+.. figure:: images/fakes.png
    :alt: DeepFakes
 **Inputs:** Image Data 
 
