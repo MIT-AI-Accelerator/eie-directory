@@ -1,10 +1,5 @@
 Earth Intelligence Engine: Info Directory
 =========================================
-.. figure:: images/fakes000403.png
-   :alt: DeepFakes
-
-StyleGan2 Images
-
 
 .. contents::
 
@@ -52,6 +47,8 @@ Models
 
 StyleGan2 
 ~~~~~~~~~
+.. figure:: images/fakes000403.png
+   :alt: DeepFakes
 **Inputs:** Image Data 
 
 **Outputs:** Image Data 
