@@ -1,4 +1,4 @@
-## Earthday Hackathon
+## Earthday Hackathon & Future Challenge Ideas
 
 #### Data
 * SEVIR ( 5 sensor inputs easy for ml format )
