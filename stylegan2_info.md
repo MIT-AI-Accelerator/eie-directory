@@ -16,7 +16,9 @@ For our model, we can look at how our FID score improves over time:
 
 `
   Plot Info:
+  
   Model Resolution: 256x256
+  
   Config-f
 `
 
