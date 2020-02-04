@@ -13,7 +13,12 @@ The original [paper](https://arxiv.org/abs/1706.08500) proposed the FID score as
 For our model, we can look at how our FID score improves over time:
 
 ![FIDvsTime](images/FIDvsTime.png)
+
 `
+  Plot Info:
   Model Resolution: 256x256
   Config-f
 `
+
+### Training GANs
+
