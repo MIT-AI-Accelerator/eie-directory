@@ -1,12 +1,12 @@
 ## Earthday Hackathon & Future Challenge Ideas
 
-#### Data
+### Data
 * SEVIR ( 5 sensor inputs easy for ml format )
 * Numerical Weather Model Output + Potentially with overlapping data sources
 * Synthetic Ocean Model Proxies + Potentially scrap data sources
 * Satellite imagery (planet data, landsat, modis, sentinel, chespeake, hyperspectral)
 
-#### Hackathon Tracks & Challenge Ideas
+### Hackathon Tracks & Challenge Ideas
 * Interpretability and Visualization
 
 How can I intuitively represent predictive data for climate and weather? 
