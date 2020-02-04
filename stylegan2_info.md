@@ -1,6 +1,6 @@
 ## StyleGan2 Notes
 
-### Evaluation GANs
+### Evaluating GANs
 
 How to track the performance of a Generative Model? Well, one way to do that is to use something known as the 
 Frechet Inception Distance score.  
