@@ -14,13 +14,12 @@ For our model, we can look at how our FID score improves over time:
 
 ![FIDvsTime](images/FIDvsTime.png)
 
-`
-  Plot Info:
-  
+```
+  Plot Info
+  Infrastructure: 8 Node GPU
   Model Resolution: 256x256
-  
   Config-f
-`
+```
 
 ### Training GANs
 
