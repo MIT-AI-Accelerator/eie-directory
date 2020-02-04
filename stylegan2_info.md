@@ -16,7 +16,7 @@ For our model, we can look at how our FID score improves over time:
 
 ```
   Plot Info
-  Infrastructure: 8 Node GPU
+  Infrastructure: Single Node 8 x GPU (2 Days Training)
   Model Resolution: 256x256
   Config-f
 ```
