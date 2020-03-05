@@ -22,3 +22,14 @@ For our model, we can look at how our FID score improves over time:
 
 ### Training GANs
 
+### Early Interpolation Results
+
+Interpolation created from model trained for approx. 7 days on 1024x1024 imagery from the Chesapeake Conservancy LU/LC data. These gifs were created on a snapshot of the network after training on 11714 images.
+
+Start and end images were randomly selected as proof of concept. In the future, we wish to generate interpolations between current imagery and imagery generated to align with predictions produced by climate change models.
+
+![Images_seed_23_to_100](images/23_100_D150.gif)
+
+![Images_seed_800_to_13](images/800_13_D150.gif)
+
+![Images_seed_536_to_1003](images/536_1003_D150.gif)
